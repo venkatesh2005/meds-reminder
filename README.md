@@ -2,7 +2,7 @@
 
 A medication tracking app where patients can mark their daily medications and caretakers get notified if they miss one.
 
-**Live Demo:** https://meds-reminder-kappa.vercel.app
+**Live Demo:** https://meds-reminder-task.vercel.app
 
 ## Tech Stack
 
